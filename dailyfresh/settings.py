@@ -153,9 +153,9 @@ EMAIL_HOST = 'smtp.qq.com'
 # smtp端口号
 EMAIL_PORT = 25
 #发送邮件的邮箱
-EMAIL_HOST_USER = '972167377@qq.com'
+EMAIL_HOST_USER = ''
 #在邮箱中设置的客户端授权密码
-EMAIL_HOST_PASSWORD = 'tazowvpwaawybeif'
+EMAIL_HOST_PASSWORD = ''
 #收件人看到的发件人
 EMAIL_FROM = '天天生鲜<972167377@qq.com>'
 
