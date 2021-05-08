@@ -11,7 +11,7 @@ django-haystack==2.8.1
 django-redis==4.11.0
 django-tinymce==2.6.0
 dnspython==1.16.0
-eventlet==0.25.2
+eventlet==0.31.0
 fdfs-client-py @ file:///C:/Users/Mr.%E7%A8%8B/Desktop/FastDFS/fdfs_client-py-master.zip
 get==2019.4.13
 greenlet==0.4.15
